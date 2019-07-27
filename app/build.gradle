@@ -9,7 +9,7 @@ android {
     defaultConfig {
         applicationId "ir.app.opeqe"
         minSdkVersion 19
-        targetSdkVersion 26
+        targetSdkVersion 27
         versionCode 1
         versionName "1.0"
     }
